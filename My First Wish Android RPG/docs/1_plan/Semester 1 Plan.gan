@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2017-12-04" view-index="0" gantt-divider-location="431" resource-divider-location="300" version="2.8.5" locale="en_GB">
+    <description/>
+    <view zooming-state="default:2" id="gantt-chart">
+        <field id="tpd3" name="Name" width="237" order="0"/>
+        <field id="tpd4" name="Begin date" width="86" order="1"/>
+        <field id="tpd5" name="End date" width="105" order="2"/>
+    </view>
+    <view id="resource-table">
+        <field id="0" name="Name" width="211" order="0"/>
+        <field id="1" name="Default role" width="86" order="1"/>
+    </view>
+    <!-- -->
+    <calendars>
+        <day-types>
+            <day-type id="0"/>
+            <day-type id="1"/>
+            <default-week id="1" name="default" sun="1" mon="0" tue="0" wed="0" thu="0" fri="0" sat="1"/>
+            <only-show-weekends value="false"/>
+            <overriden-day-types/>
+            <days/>
+        </day-types>
+    </calendars>
+    <tasks empty-milestones="true">
+        <taskproperties>
+            <taskproperty id="tpd0" name="type" type="default" valuetype="icon"/>
+            <taskproperty id="tpd1" name="priority" type="default" valuetype="icon"/>
+            <taskproperty id="tpd2" name="info" type="default" valuetype="icon"/>
+            <taskproperty id="tpd3" name="name" type="default" valuetype="text"/>
+            <taskproperty id="tpd4" name="begindate" type="default" valuetype="date"/>
+            <taskproperty id="tpd5" name="enddate" type="default" valuetype="date"/>
+            <taskproperty id="tpd6" name="duration" type="default" valuetype="int"/>
+            <taskproperty id="tpd7" name="completion" type="default" valuetype="int"/>
+            <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
+            <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
+        </taskproperties>
+        <task id="0" name="Prologue Level" color="#8cb6ce" meeting="false" start="2017-10-04" duration="20" complete="37" expand="true">
+            <depend id="55" type="2" difference="0" hardness="Strong"/>
+            <task id="9" name="Engine Research" meeting="false" start="2017-10-04" duration="6" complete="100" expand="true"/>
+            <task id="4" name="Level Design" color="#8cb6ce" meeting="false" start="2017-10-12" duration="8" complete="36" expand="true"/>
+            <task id="6" name="Player Movement System" color="#8cb6ce" meeting="false" start="2017-10-23" duration="2" complete="0" expand="true"/>
+            <task id="13" name="Player NPC Interaction &amp; Dialogue" color="#8cb6ce" meeting="false" start="2017-10-25" duration="2" complete="0" expand="true"/>
+            <task id="17" name="Player Item Interaction" color="#8cb6ce" meeting="false" start="2017-10-25" duration="2" complete="0" expand="true"/>
+            <task id="20" name="Player enemy interaction" color="#8cb6ce" meeting="false" start="2017-10-27" duration="3" complete="0" expand="true"/>
+            <task id="70" name="Prologue Finished" color="#8cb6ce" meeting="true" start="2017-11-01" duration="0" complete="0" expand="true"/>
+        </task>
+        <task id="55" name="Level 1" color="#8cb6ce" meeting="false" start="2017-11-01" duration="10" complete="0" expand="true">
+            <depend id="46" type="2" difference="0" hardness="Strong"/>
+            <task id="56" name="Level Design" color="#8cb6ce" meeting="false" start="2017-11-01" duration="5" complete="0" expand="true"/>
+            <task id="57" name="Adding Player Movement" color="#8cb6ce" meeting="false" start="2017-11-08" duration="1" complete="0" expand="true"/>
+            <task id="58" name="Adding Player Interaction &amp; Dialogue" color="#8cb6ce" meeting="false" start="2017-11-09" duration="1" complete="0" expand="true"/>
+            <task id="59" name="Adding Enemy Interactions" color="#8cb6ce" meeting="false" start="2017-11-10" duration="1" complete="0" expand="true"/>
+            <task id="60" name="Finalizing Level 1 and Final testing" color="#8cb6ce" meeting="false" start="2017-11-13" duration="2" complete="0" expand="true"/>
+            <task id="61" name="Level 1 Complete" color="#8cb6ce" meeting="true" start="2017-11-15" duration="0" complete="0" expand="true"/>
+        </task>
+        <task id="46" name="Level 2" color="#8cb6ce" meeting="false" start="2017-11-16" duration="9" complete="0" expand="true">
+            <depend id="105" type="2" difference="0" hardness="Strong"/>
+            <task id="48" name="Level Design" color="#8cb6ce" meeting="false" start="2017-11-16" duration="3" complete="0" expand="true"/>
+            <task id="77" name="Adding Player Movement" color="#8cb6ce" meeting="false" start="2017-11-21" duration="1" complete="0" expand="true"/>
+            <task id="81" name="Adding Player Interactions &amp; Dialogue" color="#8cb6ce" meeting="false" start="2017-11-22" duration="1" complete="0" expand="true"/>
+            <task id="89" name="Player Item Interactions" color="#8cb6ce" meeting="false" start="2017-11-23" duration="1" complete="0" expand="true"/>
+            <task id="93" name="Player enemy interaction" color="#8cb6ce" meeting="false" start="2017-11-24" duration="1" complete="0" expand="true"/>
+            <task id="100" name="Level 2 Finalization" color="#8cb6ce" meeting="false" start="2017-11-27" duration="2" complete="0" expand="true"/>
+            <task id="103" name="Level 2 Completion" color="#8cb6ce" meeting="true" start="2017-11-29" duration="0" complete="0" expand="true"/>
+        </task>
+        <task id="105" name="Level 3" color="#8cb6ce" meeting="false" start="2017-12-05" duration="14" complete="0" expand="true">
+            <task id="107" name="Level Design" color="#8cb6ce" meeting="false" start="2017-12-05" duration="3" complete="0" expand="true"/>
+            <task id="109" name="Adding Player Movement" color="#8cb6ce" meeting="false" start="2017-12-08" duration="1" complete="0" expand="true"/>
+            <task id="111" name="Adding Player Interactions &amp; Dialogue" color="#8cb6ce" meeting="false" start="2017-12-11" duration="1" complete="0" expand="true"/>
+            <task id="113" name="Player Item Interactions" color="#8cb6ce" meeting="false" start="2017-12-14" duration="1" complete="0" expand="true"/>
+            <task id="115" name="Player enemy interaction" color="#8cb6ce" meeting="false" start="2017-12-18" duration="1" complete="0" expand="true"/>
+            <task id="117" name="Level 3 Finalization" color="#8cb6ce" meeting="false" start="2017-12-21" duration="2" complete="0" expand="true"/>
+            <task id="119" name="Level 3 Completion" color="#8cb6ce" meeting="true" start="2017-12-25" duration="0" complete="0" expand="true"/>
+        </task>
+        <task id="39" name="Designing Game Protagonist" color="#8cb6ce" meeting="false" start="2017-11-01" duration="15" complete="0" expand="true">
+            <depend id="43" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="43" name="Design Game Story Character 1" color="#8cb6ce" meeting="false" start="2017-11-22" duration="10" complete="0" expand="true">
+            <depend id="126" type="2" difference="0" hardness="Strong"/>
+        </task>
+        <task id="126" name="Design Game Story Character 2" color="#8cb6ce" meeting="false" start="2017-12-06" duration="10" complete="0" expand="true"/>
+    </tasks>
+    <resources/>
+    <allocations/>
+    <vacations/>
+    <previous/>
+    <roles roleset-name="Default"/>
+    <roles roleset-name="SoftwareDevelopment"/>
+</project>
