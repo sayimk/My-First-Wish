@@ -1,0 +1,11 @@
+{"NPCName":"Friend","NPCsQuestsDialogue":[
+	{"questIntroDialogue":[
+		{"lineID":0,"speaker":"Friend","text":"Welcome to my quest!!"}
+	],
+	"questFillerDialogue":[
+		{"lineID":0,"speaker":"Friend","text":"Done already?!, are you sure"}
+	],
+	"questCompletionDialogue":[
+		{"lineID":0,"speaker":"Friend","text":"Yay, you have finished my quest, heres a pat on the back"}
+	]}
+]}

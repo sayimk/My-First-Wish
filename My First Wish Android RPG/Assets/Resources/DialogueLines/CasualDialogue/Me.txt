@@ -1,0 +1,11 @@
+{"dialogueLines":[
+	{"lineID":0,"speaker":"Me","text":"Whats that?"},
+	{"lineID":1,"speaker":"Friend","text":"Whats what?"},
+	{"lineID":2,"speaker":"Me","text":"That!, right next to you!"},
+	{"lineID":3,"speaker":"Friend","text":"That?, thats Bob, its an Alien apparently"},
+	{"lineID":4,"speaker":"Me","text":"(Face palm)"},
+	{"lineID":4,"speaker":"Me","text":"Where did me come from?"},
+	{"lineID":4,"speaker":"Friend","text":"Dunno"},
+	{"lineID":4,"speaker":"Me","text":"(2x Face palm)"}
+	]
+}

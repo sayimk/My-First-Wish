@@ -1,0 +1,13 @@
+{"NPCName":"Hooded Forest Keeper","NPCsQuestsDialogue":[
+	{"questLineTitle":"Proving to the Spirits","isQuestComplete":false,
+	"questIntroDialogue":[
+		{"lineID":0,"speaker":"Hooded Forest Keeper","text":"Welcome to the Crystal Forest, Up ahead is the entrance to the Tower. Are you going to try to make it to the peak?, if you are then you should know that there are spirits guarding the way to the Tower. I tell travelers to go back, but if you can defeat and send a spirit to the after life, you can be allowed to move forward."}
+		],
+	"questFillerDialogue":[
+		{"lineID":0,"speaker":"Hooded Forest Keeper","text":"The spirit seems to be up ahead, you can turn back if you don't want to join them in death."}
+		],
+	"questCompletionDialogue":[
+	{"lineID":0,"speaker":"Hooded Forest Keeper","text":"It seems that you have freed the spirit that was lurking in the forest, very well you are allowed to climb the tower. To help take this Iron Sword, it seems to be covered with a strange type of magic"}
+	]
+	}]
+}

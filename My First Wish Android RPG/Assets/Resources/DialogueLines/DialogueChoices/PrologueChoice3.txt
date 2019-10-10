@@ -1,0 +1,15 @@
+3
+CHOICE:I'm good, it wasn't to hard
+Tama:ehehe, Aki's still so strong!.
+Elliot:I'm happy to see you haven't lost your edge
+Akira:ahaha,though it has been a while since I've trained.
+CHOICE:Minor scratches, I am a little out of Practice
+Tama:Aki, I think you should still and try training a little bit
+Akira: I know Tama, but the reason I stopped was be-.
+Elliot:At least he's okay, Tama.
+CHOICE:That was a pain
+Elliot:I can imagine, trying to get a hit on that thing. Sorry for that, Akira.
+Akira:Don't sweat it, I was the only one with a weapon, so it had to be me.
+Elliot:If you say so, ahah.
+Tama:Don't worry El, Aki is still strong.
+Elliot:I know Tama, haha.

@@ -1,0 +1,9 @@
+2
+CHOICE:Wait, I see something over there
+Elliot:Got it, worth a look
+Neru:Wonder whats inside?
+Tama:duno, but I'm curious.
+CHOICE:(Go and Quickly have a look)
+Neru: Aki, please say something before trying to disappear.
+Elliot & Tama:Agreed!
+Akira:(Casual Smile)

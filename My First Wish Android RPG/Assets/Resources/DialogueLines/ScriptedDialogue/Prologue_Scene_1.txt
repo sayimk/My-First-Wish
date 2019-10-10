@@ -1,0 +1,9 @@
+Akira:hmmm
+Neru:Aki? Whats on your mind, Are you feeling okay, we can rest if you want.
+Akira:No, I'm okay, I was just thinking about this forest, I never knew forest like this existed, but also the fact that there are monsters around here along with us.
+Elliot:We need to be careful and preferably avoid them.
+Elliot:We should get going.
+Neru:okay.
+Tama:Kay.
+Akira:okay. (Hmm looks like theres a chest by that cave, I should check first though).
+#PrologueChoice1
