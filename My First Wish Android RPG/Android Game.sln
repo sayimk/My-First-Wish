@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Android Game", "Assembly-CSharp.csproj", "{73BD4487-B888-AA4A-9E26-0DD4E73C68C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Android Game", "Assembly-CSharp-Editor.csproj", "{EA491984-0944-E1D0-9636-14C509161CD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73BD4487-B888-AA4A-9E26-0DD4E73C68C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73BD4487-B888-AA4A-9E26-0DD4E73C68C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73BD4487-B888-AA4A-9E26-0DD4E73C68C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73BD4487-B888-AA4A-9E26-0DD4E73C68C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA491984-0944-E1D0-9636-14C509161CD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA491984-0944-E1D0-9636-14C509161CD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA491984-0944-E1D0-9636-14C509161CD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA491984-0944-E1D0-9636-14C509161CD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
